@@ -27,6 +27,7 @@ describe("App component", () => {
       id: "123",
       url: "https://github.com/josepholiveira",
       title: "Desafio ReactJS",
+      description: "Description",
       techs: ["React", "Node.js"],
     });
 
@@ -49,6 +50,7 @@ describe("App component", () => {
         id: "123",
         url: "https://github.com/josepholiveira",
         title: "Desafio ReactJS",
+        description: "Description",
         techs: ["React", "Node.js"],
       },
     ]);
